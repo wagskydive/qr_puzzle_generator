@@ -50,10 +50,10 @@
  - [x] Documentation Written
 
 ## T8 - Add simple puzzle validation (client-side and server-side)
- - [ ] Started
- - [ ] Tests Written
- - [ ] Code Written
- - [ ] Tests Passed
+ - [x] Started
+ - [x] Tests Written
+ - [x] Code Written
+ - [x] Tests Passed
  - [ ] Documentation Written
 
 ## T9 - Integrate OpenAI or Ollama API (configurable)
