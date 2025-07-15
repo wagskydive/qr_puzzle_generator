@@ -197,36 +197,36 @@
 - [ ] Documentation Written
 
 ## T29 - [High Priority] Generate QR matrix from image
- - [ ] Started
- - [ ] Tests Written
- - [ ] Code Written
- - [ ] Tests Passed
- - [ ] Documentation Written
+ - [x] Started
+ - [x] Tests Written
+ - [x] Code Written
+ - [x] Tests Passed
+ - [x] Documentation Written
 
 ## T30 - [High Priority] Map QR matrix to mini-game puzzles
- - [ ] Started
- - [ ] Tests Written
- - [ ] Code Written
- - [ ] Tests Passed
- - [ ] Documentation Written
+ - [x] Started
+ - [x] Tests Written
+ - [x] Code Written
+ - [x] Tests Passed
+ - [x] Documentation Written
 
 ## T31 - [High Priority] Integrate QR puzzle generation into system
- - [ ] Started
- - [ ] Tests Written
- - [ ] Code Written
- - [ ] Tests Passed
- - [ ] Documentation Written
+ - [x] Started
+ - [x] Tests Written
+ - [x] Code Written
+ - [x] Tests Passed
+ - [x] Documentation Written
 
 ## T32 - [High Priority] Write tests for QR puzzle algorithm
- - [ ] Started
- - [ ] Tests Written
- - [ ] Code Written
- - [ ] Tests Passed
- - [ ] Documentation Written
+ - [x] Started
+ - [x] Tests Written
+ - [x] Code Written
+ - [x] Tests Passed
+ - [x] Documentation Written
 
 ## T33 - [High Priority] Document QR puzzle workflow
- - [ ] Started
+ - [x] Started
  - [ ] Tests Written
  - [ ] Code Written
  - [ ] Tests Passed
- - [ ] Documentation Written
+ - [x] Documentation Written

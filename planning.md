@@ -22,12 +22,12 @@ This document tracks high-level milestones and the status of each task derived f
  - [ ] Add scoring or unlock mechanic based on trivia
 
 ## Milestone 2.5 – QR Code Puzzle Algorithm (High Priority)
-- [ ] Generate or load a QR code and extract its matrix
-- [ ] Segment the matrix into puzzle-sized chunks
-- [ ] Map each chunk to an existing mini-game puzzle
-- [ ] Combine puzzle pieces so solving them reveals the QR code
-- [ ] Add tests for QR puzzle generation
-- [ ] Document algorithm usage
+- [x] Generate or load a QR code and extract its matrix
+- [x] Segment the matrix into puzzle-sized chunks
+- [x] Map each chunk to an existing mini-game puzzle
+- [x] Combine puzzle pieces so solving them reveals the QR code
+- [x] Add tests for QR puzzle generation
+- [x] Document algorithm usage
 
 ## Milestone 3 – Intermediate Game Modes
 - [ ] Add **Logic Constraints** puzzle type
