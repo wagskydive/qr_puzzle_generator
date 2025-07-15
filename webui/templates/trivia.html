@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Trivia Challenge</title>
+</head>
+<body>
+    <h1>Trivia Question</h1>
+    <p id="question">Loading...</p>
+    <form id="answerForm">
+        <input type="text" id="answerInput" />
+        <button type="submit">Submit</button>
+    </form>
+    <p id="result"></p>
+    <a href="/">Back</a>
+    <script>
+        async function loadQuestion() {
+            const res = await fetch('/api/trivia_question');
+            const data = await res.json();
+            if (data.status === 'success') {
+                document.getElementById('question').innerText = data.question;
+            } else {
+                document.getElementById('question').innerText = 'No trivia available.';
+            }
+        }
+
+        document.getElementById('answerForm').addEventListener('submit', async (e) => {
+            e.preventDefault();
+            const answer = document.getElementById('answerInput').value;
+            const res = await fetch('/api/trivia_answer', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ answer })
+            });
+            const data = await res.json();
+            const msg = data.status === 'correct' ? 'Correct!' : 'Incorrect.';
+            document.getElementById('result').innerText = msg + ' Score: ' + data.score;
+        });
+
+        loadQuestion();
+    </script>
+</body>
+</html>

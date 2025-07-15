@@ -85,18 +85,18 @@
  - [x] Documentation Written
 
 ## T13 - Create UI form for trivia questions and answer handling
-- [ ] Started
-- [ ] Tests Written
-- [ ] Code Written
-- [ ] Tests Passed
-- [ ] Documentation Written
+- [x] Started
+- [x] Tests Written
+- [x] Code Written
+- [x] Tests Passed
+- [x] Documentation Written
 
 ## T14 - Add scoring or unlock mechanic based on trivia
-- [ ] Started
-- [ ] Tests Written
-- [ ] Code Written
-- [ ] Tests Passed
-- [ ] Documentation Written
+- [x] Started
+- [x] Tests Written
+- [x] Code Written
+- [x] Tests Passed
+- [x] Documentation Written
 
 ## T15 - Add Logic Constraints puzzle type
 - [ ] Started
