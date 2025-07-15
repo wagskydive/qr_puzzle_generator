@@ -1,8 +1,9 @@
 # QR Puzzle Generator - MVP
 
-This project demonstrates a minimal puzzle framework with three game modes:
-Binary Rows, Binary Math and Grid Navigation. A small Flask app renders the
-puzzles in the browser.
+This project demonstrates a modular puzzle framework. Initial game modes include
+Binary Rows, Binary Math and Grid Navigation. Milestone 3 adds Logic
+Constraints and Modular Math Rules. A small Flask app renders the puzzles in the
+browser.
 
 The Web UI includes a basic validation feature. Clicking **Check Solution**
 sends the current grid state to the server, which verifies it against the saved
