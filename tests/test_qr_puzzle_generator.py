@@ -1,4 +1,9 @@
-from qr_puzzle_generator import segment_matrix, matrix_to_puzzles, generate_qr_puzzles
+from qr_puzzle_generator import (
+    segment_matrix,
+    matrix_to_puzzles,
+    generate_qr_puzzles,
+    generate_qr_puzzles_with_trivia,
+)
 from qr_processor import generate_matrix
 
 
@@ -24,3 +29,11 @@ def test_generate_qr_puzzles():
     puzzles = generate_qr_puzzles("data", chunk_size=2)
     assert puzzles
     assert all(p["mode"] == "grid_navigation" for p in puzzles)
+
+
+def test_generate_qr_puzzles_with_trivia():
+    puzzles = generate_qr_puzzles_with_trivia("hello", chunk_size=2, provider="dummy")
+    assert puzzles
+    assert all("trivia" in p for p in puzzles)
+    first = puzzles[0]["trivia"]
+    assert "question" in first and "answer" in first and "action" in first
