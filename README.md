@@ -6,7 +6,8 @@ puzzles in the browser.
 
 The Web UI includes a basic validation feature. Clicking **Check Solution**
 sends the current grid state to the server, which verifies it against the saved
-puzzle data.
+puzzle data.  
+Milestone 2 introduces a trivia generator used to reveal parts of a puzzle.
 
 ## Running
 
@@ -16,3 +17,9 @@ python3 main.py
 # Launch the web UI
 python3 webui/app.py
 ```
+
+## Trivia Generation
+
+`TriviaGenerator` can create questions using OpenAI or Ollama depending on the
+`TRIVIA_PROVIDER` environment variable. When neither provider is configured it
+falls back to a dummy implementation which is used in tests.

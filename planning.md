@@ -14,12 +14,12 @@ This document tracks high-level milestones and the status of each task derived f
  - [x] Add simple puzzle validation (client-side and server-side)
 
 ## Milestone 2 – Trivia Expansion
-- [ ] Integrate OpenAI or Ollama API (configurable)
-- [ ] Create `trivia_generator.py` to handle clue → prompt → question
-- [ ] Generate trivia from puzzle rules (e.g. “Reveal row 3”)
-- [ ] Store correct answers and map to puzzle actions
-- [ ] UI form for trivia questions and answer handling
-- [ ] Add scoring or unlock mechanic based on trivia
+- [x] Integrate OpenAI or Ollama API (configurable)
+- [x] Create `trivia_generator.py` to handle clue → prompt → question
+- [x] Generate trivia from puzzle rules (e.g. “Reveal row 3”)
+ - [ ] Store correct answers and map to puzzle actions
+ - [ ] UI form for trivia questions and answer handling
+ - [ ] Add scoring or unlock mechanic based on trivia
 
 ## Milestone 3 – Intermediate Game Modes
 - [ ] Add **Logic Constraints** puzzle type
