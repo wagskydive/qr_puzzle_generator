@@ -4,14 +4,14 @@ This document tracks high-level milestones and the status of each task derived f
 
 ## Milestone 1 – MVP Foundation
 - [x] Create project structure and setup script
-- [ ] Implement **Binary Rows** game mode
-- [ ] Implement **Binary Math** game mode
-- [ ] Implement **Grid Navigation** game mode
-- [ ] Build minimal Flask Web UI
-- [ ] Design basic UI templates for each mode
-- [ ] Implement game engine to route to selected mode
-- [ ] Add save/load system for puzzles and player progress
-- [ ] Add simple puzzle validation (client-side and server-side)
+ - [x] Implement **Binary Rows** game mode
+ - [x] Implement **Binary Math** game mode
+ - [x] Implement **Grid Navigation** game mode
+ - [x] Build minimal Flask Web UI
+ - [x] Design basic UI templates for each mode
+ - [x] Implement game engine to route to selected mode
+ - [x] Add save/load system for puzzles and player progress
+ - [ ] Add simple puzzle validation (client-side and server-side)
 
 ## Milestone 2 – Trivia Expansion
 - [ ] Integrate OpenAI or Ollama API (configurable)
