@@ -18,8 +18,8 @@ This document tracks high-level milestones and the status of each task derived f
 - [x] Create `trivia_generator.py` to handle clue → prompt → question
 - [x] Generate trivia from puzzle rules (e.g. “Reveal row 3”)
  - [x] Store correct answers and map to puzzle actions
- - [ ] UI form for trivia questions and answer handling
- - [ ] Add scoring or unlock mechanic based on trivia
+ - [x] UI form for trivia questions and answer handling
+ - [x] Add scoring or unlock mechanic based on trivia
 
 ## Milestone 2.5 – QR Code Puzzle Algorithm (High Priority)
 - [x] Generate or load a QR code and extract its matrix
