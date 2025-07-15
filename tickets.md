@@ -23,16 +23,16 @@
 
 ## T4 - Build minimal Flask Web UI
  - [x] Started
- - [ ] Tests Written
+ - [x] Tests Written
  - [x] Code Written
- - [ ] Tests Passed
+ - [x] Tests Passed
  - [x] Documentation Written
 
 ## T5 - Design basic UI templates for each mode
  - [x] Started
- - [ ] Tests Written
+ - [x] Tests Written
  - [x] Code Written
- - [ ] Tests Passed
+ - [x] Tests Passed
  - [x] Documentation Written
 
 ## T6 - Implement game engine to route to selected mode
@@ -99,18 +99,18 @@
 - [x] Documentation Written
 
 ## T15 - Add Logic Constraints puzzle type
-- [ ] Started
-- [ ] Tests Written
-- [ ] Code Written
-- [ ] Tests Passed
-- [ ] Documentation Written
+ - [x] Started
+ - [x] Tests Written
+ - [x] Code Written
+ - [x] Tests Passed
+ - [x] Documentation Written
 
 ## T16 - Add Modular Math Rules puzzle type
-- [ ] Started
-- [ ] Tests Written
-- [ ] Code Written
-- [ ] Tests Passed
-- [ ] Documentation Written
+ - [x] Started
+ - [x] Tests Written
+ - [x] Code Written
+ - [x] Tests Passed
+ - [x] Documentation Written
 
 ## T17 - Improve grid rendering with helper visuals
 - [ ] Started

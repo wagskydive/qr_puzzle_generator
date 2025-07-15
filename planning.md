@@ -30,8 +30,8 @@ This document tracks high-level milestones and the status of each task derived f
 - [x] Document algorithm usage
 
 ## Milestone 3 – Intermediate Game Modes
-- [ ] Add **Logic Constraints** puzzle type
-- [ ] Add **Modular Math Rules** puzzle type
+- [x] Add **Logic Constraints** puzzle type
+- [x] Add **Modular Math Rules** puzzle type
 - [ ] Improve grid rendering with helper visuals (row hints, highlights)
 - [ ] Add visual feedback for incorrect moves or conflicting logic
 
