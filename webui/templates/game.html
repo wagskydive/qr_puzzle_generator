@@ -46,16 +46,14 @@
             drawGrid();
         });
 
-        function checkSolution() {
-            let correct = true;
-            for (let i = 0; i < gridSize; i++) {
-                for (let j = 0; j < gridSize; j++) {
-                    if (playerGrid[i][j] !== solution[i][j]) {
-                        correct = false;
-                    }
-                }
-            }
-            document.getElementById("result").innerText = correct
+        async function checkSolution() {
+            const res = await fetch("/api/validate_solution", {
+                method: "POST",
+                headers: {"Content-Type": "application/json"},
+                body: JSON.stringify({grid: playerGrid})
+            });
+            const data = await res.json();
+            document.getElementById("result").innerText = data.status === "success"
                 ? "✅ Correct! Well done."
                 : "❌ Not quite. Try again!";
         }

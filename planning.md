@@ -11,7 +11,7 @@ This document tracks high-level milestones and the status of each task derived f
  - [x] Design basic UI templates for each mode
  - [x] Implement game engine to route to selected mode
  - [x] Add save/load system for puzzles and player progress
- - [ ] Add simple puzzle validation (client-side and server-side)
+ - [x] Add simple puzzle validation (client-side and server-side)
 
 ## Milestone 2 – Trivia Expansion
 - [ ] Integrate OpenAI or Ollama API (configurable)
