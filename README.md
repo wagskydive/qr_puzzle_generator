@@ -1,0 +1,1 @@
+# QR Puzzle Generator - MVP
