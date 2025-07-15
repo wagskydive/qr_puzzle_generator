@@ -54,7 +54,7 @@
  - [x] Tests Written
  - [x] Code Written
  - [x] Tests Passed
- - [ ] Documentation Written
+ - [x] Documentation Written
 
 ## T9 - Integrate OpenAI or Ollama API (configurable)
  - [x] Started
@@ -75,14 +75,14 @@
 - [x] Tests Written
 - [x] Code Written
 - [x] Tests Passed
-- [ ] Documentation Written
+ - [x] Documentation Written
 
 ## T12 - Store correct trivia answers and map to puzzle actions
-- [ ] Started
-- [ ] Tests Written
-- [ ] Code Written
-- [ ] Tests Passed
-- [ ] Documentation Written
+ - [x] Started
+ - [x] Tests Written
+ - [x] Code Written
+ - [x] Tests Passed
+ - [x] Documentation Written
 
 ## T13 - Create UI form for trivia questions and answer handling
 - [ ] Started
@@ -226,7 +226,7 @@
 
 ## T33 - [High Priority] Document QR puzzle workflow
  - [x] Started
- - [ ] Tests Written
- - [ ] Code Written
- - [ ] Tests Passed
+ - [x] Tests Written
+ - [x] Code Written
+ - [x] Tests Passed
  - [x] Documentation Written
