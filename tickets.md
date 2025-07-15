@@ -57,24 +57,24 @@
  - [ ] Documentation Written
 
 ## T9 - Integrate OpenAI or Ollama API (configurable)
- - [ ] Started
- - [ ] Tests Written
- - [ ] Code Written
- - [ ] Tests Passed
- - [ ] Documentation Written
+ - [x] Started
+ - [x] Tests Written
+ - [x] Code Written
+ - [x] Tests Passed
+ - [x] Documentation Written
 
 ## T10 - Create `trivia_generator.py` for trivia question handling
-- [ ] Started
-- [ ] Tests Written
-- [ ] Code Written
-- [ ] Tests Passed
-- [ ] Documentation Written
+- [x] Started
+- [x] Tests Written
+- [x] Code Written
+- [x] Tests Passed
+- [x] Documentation Written
 
 ## T11 - Generate trivia from puzzle rules
-- [ ] Started
-- [ ] Tests Written
-- [ ] Code Written
-- [ ] Tests Passed
+- [x] Started
+- [x] Tests Written
+- [x] Code Written
+- [x] Tests Passed
 - [ ] Documentation Written
 
 ## T12 - Store correct trivia answers and map to puzzle actions
