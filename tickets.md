@@ -1,53 +1,53 @@
 # Tickets
 
 ## T1 - Implement Binary Rows game mode
- - [ ] Started
- - [ ] Tests Written
- - [ ] Code Written
- - [ ] Tests Passed
- - [ ] Documentation Written
+ - [x] Started
+ - [x] Tests Written
+ - [x] Code Written
+ - [x] Tests Passed
+ - [x] Documentation Written
 
 ## T2 - Implement Binary Math game mode
- - [ ] Started
- - [ ] Tests Written
- - [ ] Code Written
- - [ ] Tests Passed
- - [ ] Documentation Written
+ - [x] Started
+ - [x] Tests Written
+ - [x] Code Written
+ - [x] Tests Passed
+ - [x] Documentation Written
 
 ## T3 - Implement Grid Navigation game mode
- - [ ] Started
- - [ ] Tests Written
- - [ ] Code Written
- - [ ] Tests Passed
- - [ ] Documentation Written
+ - [x] Started
+ - [x] Tests Written
+ - [x] Code Written
+ - [x] Tests Passed
+ - [x] Documentation Written
 
 ## T4 - Build minimal Flask Web UI
- - [ ] Started
+ - [x] Started
  - [ ] Tests Written
- - [ ] Code Written
+ - [x] Code Written
  - [ ] Tests Passed
- - [ ] Documentation Written
+ - [x] Documentation Written
 
 ## T5 - Design basic UI templates for each mode
- - [ ] Started
+ - [x] Started
  - [ ] Tests Written
- - [ ] Code Written
+ - [x] Code Written
  - [ ] Tests Passed
- - [ ] Documentation Written
+ - [x] Documentation Written
 
 ## T6 - Implement game engine to route to selected mode
- - [ ] Started
- - [ ] Tests Written
- - [ ] Code Written
- - [ ] Tests Passed
- - [ ] Documentation Written
+ - [x] Started
+ - [x] Tests Written
+ - [x] Code Written
+ - [x] Tests Passed
+ - [x] Documentation Written
 
 ## T7 - Add save/load system for puzzles and player progress
- - [ ] Started
- - [ ] Tests Written
- - [ ] Code Written
- - [ ] Tests Passed
- - [ ] Documentation Written
+ - [x] Started
+ - [x] Tests Written
+ - [x] Code Written
+ - [x] Tests Passed
+ - [x] Documentation Written
 
 ## T8 - Add simple puzzle validation (client-side and server-side)
  - [ ] Started
